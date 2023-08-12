@@ -10,7 +10,7 @@ public class Main {
 
     public static class B extends A {
         @Override
-        String meth() {
+        public String meth() {
             return "Method is overridden in Extended class B";
         }
     }
