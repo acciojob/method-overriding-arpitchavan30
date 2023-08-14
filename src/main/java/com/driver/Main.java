@@ -21,6 +21,7 @@ public class Main {
 
        B b2=new B();
        b2.meth();
+
     }
 }
 
